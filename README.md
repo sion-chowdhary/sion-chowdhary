@@ -1,8 +1,8 @@
-# Hello, I'm Sion Chowdhary! 👋
+# Hello, I'm Sion Chowdhary ! 👋
 
 I'm a frontend web developer passionate about creating interactive and user-friendly web applications. 
 
-🌱 I’m currently learning NodeJS to become a MERN Stack Developer.
+🌱I'm currently learning Node.js to become a MERN Stack Developer.
 
 🔭 I’m currently working on various web development projects.
 
