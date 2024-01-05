@@ -14,7 +14,7 @@ I'm a frontend web developer passionate about creating interactive and user-frie
 
 - Programming Languages: HTML, CSS, JavaScript
 - Tools & Technologies: Git, VS Code
-- Frameworks & Libraries: React, Bootstrap, TailWind CSS
+- Frameworks & Libraries: React, Bootstrap, Tailwind CSS
 
 ---
 
