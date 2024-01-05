@@ -1,4 +1,4 @@
-# Hello, I'm Sion Chowdhary ! 👋
+# Hello, I'm Sion Chowdhary! 👋
 
 I'm a frontend web developer passionate about creating interactive and user-friendly web applications. 
 
@@ -6,7 +6,7 @@ I'm a frontend web developer passionate about creating interactive and user-frie
 
 🔭 I’m currently working on various web development projects.
 
-📫 How to reach me: You can connect with me via [LinkedIn](https://www.linkedin.com/in/sion-chowdhary-a19113246/)
+📫 How to reach me: You can connect with me via [LinkedIn](https://www.linkedin.com/in/sion-chowdhary-a19113246/).
 
 ---
 
