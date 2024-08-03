@@ -1,8 +1,8 @@
 # Hello, I'm Sion Chowdhary! 👋
 
-I'm a frontend web developer passionate about creating interactive and user-friendly web applications. 
+I'm a web developer passionate about creating interactive and user-friendly web applications. 
 
-🌱I'm currently learning Node.js to become a MERN Stack Developer.
+🌱I'm currently learning NextJS.
 
 🔭 I’m currently working on various web development projects.
 
@@ -12,9 +12,11 @@ I'm a frontend web developer passionate about creating interactive and user-frie
 
 ## 🛠️ Skills
 
-- Programming Languages: HTML, CSS, JavaScript
+- Programming Languages: JavaScript, Java, C, Python
 - Tools & Technologies: Git, VS Code
 - Frameworks & Libraries: React, Bootstrap, Tailwind CSS
+-  Frontend Web Development: ReactJS, HTML, CSS, Responsive Design
+-  Backend Web Development: NodeJS, ExpressJS, MongoDB
 
 ---
 
